@@ -11,3 +11,7 @@ specified in [RFC 4226](https://tools.ietf.org/html/rfc4226) and the Time-based
 One-time Password (TOTP) algorithm specified in [RFC 6238](https://tools.ietf.org/html/rfc6238).
 
 Further documentation is available in the [Wiki](https://github.com/google/google-authenticator/wiki).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/telkomsel13/google-authenticator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
